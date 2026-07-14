@@ -12,9 +12,9 @@ Canberra, Australia | [linkedin.com/in/chienhsiang-yeh](https://linkedin.com/in/
 ## Skills
 
 - **Data & Analytics:** SQL, Python, pandas, NumPy, Excel, Stata, R, MATLAB, statistical modelling, econometrics, time-series forecasting
-- **Databases & SQL Platforms:** SQL Server, SSMS, PostgreSQL, MySQL, Azure SQL Database, Snowflake, AWS Redshift, DynamoDB
+- **Databases & SQL Platforms:** SQL Server, SSMS, SSIS, PostgreSQL, MySQL, Azure SQL Database, Snowflake, AWS Redshift, DynamoDB
 - **Azure Stack:** Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2, Synapse Analytics, Azure SQL Database, serverless SQL, Power BI semantic models
-- **Power BI & Reporting:** Power BI, DAX, Power Query, star-schema modelling, reusable metrics, Excel Power Pivot, Tableau, stakeholder reporting
+- **Power BI & Reporting:** Power BI, SSRS, DAX, Power Query, star-schema modelling, reusable metrics, Excel Power Pivot, Tableau, stakeholder reporting
 - **AWS Stack:** Glue, Athena, EMR, Lambda, Step Functions, S3, DynamoDB, SageMaker, MWAA, DMS, API Gateway
 - **ETL, APIs & Automation:** PySpark, dbt, Airflow, Kafka, FastAPI, Streamlit, Docker, Terraform, GitHub Actions, CloudFormation
 - **AI & ML:** scikit-learn, LangChain, Retrieval-Augmented Generation (RAG), prompt engineering, OpenAI Responses API
@@ -45,6 +45,8 @@ Canberra, Australia | [linkedin.com/in/chienhsiang-yeh](https://linkedin.com/in/
 
 ### Public Sector Reporting and Decision-Support Portfolio
 
+This portfolio is intentionally aligned with public-sector data analyst, reporting analyst, compliance analyst, and decision-support roles, using realistic case studies to demonstrate the reporting outputs, data controls, and stakeholder communication expected in those positions.
+
 **Education Azure Lakehouse Analytics and Monthly Reporting Portfolio**  
 [github.com/chypwc/education_data_lakehouse](https://github.com/chypwc/education_data_lakehouse)
 - Built an Azure analytics and reporting portfolio using synthetic school, student, attendance, assessment, and event data to demonstrate end-to-end ingestion, validation, reporting layers, Power BI dashboards, and written insights.
@@ -62,6 +64,13 @@ Canberra, Australia | [linkedin.com/in/chienhsiang-yeh](https://linkedin.com/in/
 - Built an end-to-end workers compensation reporting portfolio using synthetic claims, return-to-work, financial, governance, and reporting extracts to support claims operations, financial reporting, governance review, and reporting obligations.
 - Designed SQL Server data layers from raw ingestion to curated reporting views, with controlled mappings, data quality checks, load audit controls, reconciliation outputs, and privacy-aware reporting rules.
 - Delivered decision-support outputs including Power BI dashboards, an annual-report-style Excel pack, FOI-style de-identified extract, executive briefing, and statistical/ML high-cost claim review appendix.
+
+**Revenue Compliance Reporting Portfolio**  
+[github.com/chypwc/revenue-compliance-reporting](https://github.com/chypwc/revenue-compliance-reporting)
+- Built an end-to-end SQL Server revenue compliance analytics solution using SSIS, SSRS, SSMS, and synthetic operational data to integrate monthly Excel/CSV feeds into validated staging tables and a star-schema warehouse.
+- Developed SQL data-quality, audit, and reconciliation controls to confirm file completeness, identify rejected records, and explain variances across liabilities, charge lines, payments, allocations, and debt balances.
+- Designed SSRS reports and letter templates to help users prioritise overdue accounts, investigate account histories, monitor load exceptions, and identify customers requiring compliance follow-up.
+- Translated warehouse data into management KPIs and statistical visuals covering assessed revenue, collections, debt movement, arrears trends, revenue-type exposure, and account-level compliance risk.
 
 **Public Health Surveillance Lakehouse**  
 [github.com/chypwc/health-surveillance-lakehouse](https://github.com/chypwc/health-surveillance-lakehouse)
