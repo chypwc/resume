@@ -72,6 +72,12 @@ This portfolio is intentionally aligned with public-sector data analyst, reporti
 - Designed SSRS reports and letter templates to help users prioritise overdue accounts, investigate account histories, monitor load exceptions, and identify customers requiring compliance follow-up.
 - Translated warehouse data into management KPIs and statistical visuals covering assessed revenue, collections, debt movement, arrears trends, revenue-type exposure, and account-level compliance risk.
 
+**WHS Reporting and Assurance Dashboard**  
+[github.com/chypwc/whs-reporting-powerbi](https://github.com/chypwc/whs-reporting-powerbi)
+- Built a Power BI and Power Query reporting workflow that converts messy WHS operational extracts from safety portal, inspection, training, contractor certification, and corrective-action registers into a repeatable leadership and assurance reporting model.
+- Developed cleaning, validation, reconciliation, and exception-reporting logic to improve source traceability, identify missing or inconsistent records, and increase confidence in recurring WHS reporting outputs.
+- Designed dashboard views and documentation to answer core assurance questions: where safety follow-up is needed, whether compliance obligations are on track, and which data-quality or system-access issues affect reporting reliability.
+
 **Public Health Surveillance Lakehouse**  
 [github.com/chypwc/health-surveillance-lakehouse](https://github.com/chypwc/health-surveillance-lakehouse)
 - Built an Azure-based public health surveillance workflow simulating REDCap-style case intake and lab test exports to support case reporting, testing outcomes, facility monitoring, workflow review, and data quality triage.
